@@ -1,0 +1,16 @@
+body {
+    color: red ;
+    font-style: italic ;
+    margin-left: 200px;
+}
+h1 {
+    background-image: url(https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_JusticeLeague_52ab8e54d0a6f0.42170553.jpg);
+    font-size: 200px;
+    margin-right: 400px;
+}
+h2 {
+    font-family:cursive;
+    font-size: 60;
+}
+h3 {
+    background-color: white

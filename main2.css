@@ -1,0 +1,17 @@
+body {
+    color: red ;
+    font-style: italic ;
+    margin-left: 200px;
+}
+h1 {
+    background-image: url(https://specials-images.forbesimg.com/imageserve/5cc0c243a7ea436c70f3ba2f/960x0.jpg?fit=scale);
+    font-size: 200px;
+    margin-right:400px;
+}
+h2 {
+    font-family:cursive;
+    font-size: 60;
+}
+h3 {
+    background-color: white
+}

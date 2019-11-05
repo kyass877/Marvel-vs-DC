@@ -1,0 +1,26 @@
+body {
+    font-family: verdana, sans-serif;
+    margin: inherit;
+    
+}
+h1 {
+    font-size: 100px;
+    background-color:gray;
+    background-blend-mode: luminosity;
+    color:brown
+}
+p{
+    font-size: 30px;
+    color: crimson
+}
+h2{ 
+    font-family:monospace;
+    font-size: 60;
+    background-color: darkblue;
+    color: red;
+    background-image:url(https://cdn3.movieweb.com/i/article/QOqcKLec58AQFQ5bUCc134eU6U4YYh/738:50/Marvel-Vs-Dc-Movies-Research-Winner.jpg);
+    background-blend-mode:luminosity;
+    margin-right: 450px;
+}
+h3{
+    color:darkgoldenrod;
